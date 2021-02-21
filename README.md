@@ -1,5 +1,6 @@
 # 2B2T Restart Notify
 2b2t restarts notify made by Moon
+Link raw to read: https://raw.githubusercontent.com/MoonVN571/2B2T-Restart-Notify/main/README.md
 
 ### How to setup ?
 First, you need install nodejs. Second, install module in your folder of bot, open cmd and write "npm i" to install the module to run bot.
