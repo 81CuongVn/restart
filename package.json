@@ -1,0 +1,25 @@
+{
+  "name": "2b2t-bot",
+  "version": "1.0.0",
+  "description": "A 2b2t restart notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonVN571/Restarts-Notify.git"
+  },
+  "author": "Moonz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonVN571/Restarts-Notify/issues"
+  },
+  "homepage": "https://github.com/MoonVN571/Restarts-Notify#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "mineflayer": "^2.41.0",
+    "wait-until": "0.0.2"
+  }
+}
